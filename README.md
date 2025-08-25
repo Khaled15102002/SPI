@@ -34,6 +34,6 @@ RTL was written in Verilog, verified with QuestaSim, and synthesized/implemented
 ## 🖥️ Simulation & Results
 - [PDF Report](https://github.com/Khaled15102002/SPI/blob/main/SPI%20Slave%20With%20single%20Port%20RAM.pdf) 
 
-## Steps 
+## 📌 Steps 
 - [PDF](https://github.com/Khaled15102002/SPI/blob/main/SPI.pdf) 
 
