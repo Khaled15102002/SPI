@@ -19,7 +19,7 @@ RTL was written in Verilog, verified with QuestaSim, and synthesized/implemented
 - **Language:** Verilog HDL  
 - **Simulation:** QuestaSim (functional verification & waveform analysis)  
 - **Synthesis/Implementation:** Vivado (schematic, timing, utilization)  
-- **Target Device:** Xilinx FPGA (xc7a200tffg1156-3)  
+- **Target Device:** Xilinx FPGA (xc7a35ticpg236-1L)  
 
 ## 🚀 Deliverables
 - RTL & Testbench code  
